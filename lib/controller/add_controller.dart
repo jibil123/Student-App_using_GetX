@@ -12,7 +12,7 @@ class Addcontroller extends GetxController{
    addImage(String image) {
     imagepath.value = image;
   }
-
+ 
   final nameController = TextEditingController();
   final classController = TextEditingController();
   final guardianController = TextEditingController();
